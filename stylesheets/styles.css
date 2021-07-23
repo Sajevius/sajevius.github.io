@@ -3,9 +3,8 @@ body {
   background-color: #23352c
 }
 
-#svs-headertxt {
-  color: #82e23a;
-  text-decoration: underline;
+.svs-headertxt {
+  color: #95e6b9;
   text-align: center
 }
 
