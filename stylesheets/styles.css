@@ -29,6 +29,12 @@ body {
       background-color: #345c47;
 }
 
+#navbar a:hover {
+    color: #e4ff83;
+    border: 1px solid #19bd19;
+    text-decoration: none;
+}
+
 .svs-header {
   width: 100%;
   height: 120pxpx;
