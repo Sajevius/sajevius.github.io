@@ -3,8 +3,14 @@ body {
   background-color: #23352c
 }
 
-#svs-header {
+#svs-headertxt {
   color: #82e23a;
   text-decoration: underline;
   text-align: center
+}
+
+.svs-header {
+  width: 100%;
+  height: 80px;
+  background-color: #345c47
 }
