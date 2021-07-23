@@ -9,10 +9,25 @@ body {
   text-align: center
 }
 
+#navbar a {
+    float: left;
+    display: block;
+    color: #16d620;
+    text-align: center;
+    padding: 15px;
+    width: 80px;
+    height: 20px;
+    text-decoration: none;
+}
+
 #navbar {
   overflow: hidden;
   background-color: #2c312c;
   opacity: 0.92;
+}
+
+#navbar a.active {
+      background-color: #345c47;
 }
 
 .svs-header {
