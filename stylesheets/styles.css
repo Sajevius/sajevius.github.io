@@ -19,13 +19,13 @@ body {
 
 .svs-headertxt {
   font-size: 32px;
-  font-family: 'WorkSans';
+  font-family: WorkSans;
   color: #95e6b9;
   text-align: center
 }
 
 .svs-headertxt-small {
-  font-family: 'WorkSans';
+  font-family: WorkSans;
   color: #16d620;
   text-align: center
 }
