@@ -8,6 +8,12 @@ body {
   background-color: #23352c
 }
 
+.svs-headertxt-small {
+  font-family: WorkSans;
+  color: #16d620;
+  text-align: center
+}
+
 .svs-headertxt {
   font-family: WorkSans;
   color: #95e6b9;
@@ -27,7 +33,7 @@ body {
 
 #navbar {
   overflow: hidden;
-  background-color: #223b2e;
+  background-color: #2f5240;
   opacity: 0.92;
 }
 
