@@ -8,6 +8,12 @@ body {
   background-color: #23352c
 }
 
+#svs-headertxt-about {
+  font-family: WorkSans;
+  text-align: center;
+  color: white
+}
+
 .svs-headertxt-small {
   font-family: WorkSans;
   color: #16d620;
