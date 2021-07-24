@@ -1,9 +1,15 @@
+@font-face {
+  font-family: 'WorkSans';
+  src: url('../assets/fonts/WorkSans-Regular.ttf')
+}
+
 body {
   margin: 0%;
   background-color: #23352c
 }
 
 .svs-headertxt {
+  font-family: WorkSans;
   color: #95e6b9;
   text-align: center
 }
