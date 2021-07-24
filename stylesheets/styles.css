@@ -3,13 +3,18 @@
   src: url('../assets/fonts/WorkSans-Regular.ttf')
 }
 
+@font-face {
+  font-family: 'Poppins';
+  src: url('https://fonts.googleapis.com/css2?family=Poppins&display=swap')
+}
+
 body {
   margin: 0%;
   background-color: #23352c
 }
 
 #svs-headertxt-about {
-  font-family: 'Poppins';
+  font-family: Poppins;
   font-size: 14px;
   text-align: center;
   color: white
