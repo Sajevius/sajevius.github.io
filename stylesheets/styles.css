@@ -15,12 +15,12 @@ body {
   background-color: #202020
 }
 
-.navbar {
+#navbar {
   overflow: hidden;
   background-color: #2f5240;
 }
 
-.navbar a {
+#navbar a {
     font-family: Work Sans;
     float: left;
     display: block;
@@ -33,11 +33,11 @@ body {
     transition: 0.3s
 }
 
-.navbar a.active {
+#navbar a.active {
       background-color: #345c47;
 }
 
-.navbar a:hover {
+#navbar a:hover {
     color: #e4ff83;
     background-color: #139113;
     text-decoration: none
