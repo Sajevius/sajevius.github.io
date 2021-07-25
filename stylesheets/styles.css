@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syncopate&display=swap');
 
 body {
   margin: 0%;
@@ -23,7 +24,7 @@ body {
 
 .svs-headertxt {
   font-size: 48px;
-  font-family: 'Work Sans';
+  font-family: 'Syncopate';
   color: #95e6b9;
   text-align: center
 }
