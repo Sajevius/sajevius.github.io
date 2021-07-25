@@ -15,6 +15,40 @@ body {
   background-color: #202020
 }
 
+.navbar {
+  overflow: hidden;
+  background-color: #2f5240;
+}
+
+.navbar a {
+    font-family: Work Sans;
+    float: left;
+    display: block;
+    color: #16d620;
+    text-align: center;
+    padding: 15px;
+    width: 80px;
+    height: 20px;
+    text-decoration: none;
+    transition: 0.3s
+}
+
+.navbar a.active {
+      background-color: #345c47;
+}
+
+.navbar a:hover {
+    color: #e4ff83;
+    background-color: #139113;
+    text-decoration: none
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
 .svs-header {
   width: 100%;
   height: 440px;
@@ -50,32 +84,4 @@ body {
   height: 120px;
   left: 0;
   bottom: 0;
-}
-
-.navbar {
-  overflow: hidden;
-  background-color: #2f5240;
-}
-
-.navbar a {
-    font-family: Work Sans;
-    float: left;
-    display: block;
-    color: #16d620;
-    text-align: center;
-    padding: 15px;
-    width: 80px;
-    height: 20px;
-    text-decoration: none;
-    transition: 0.3s
-}
-
-.navbar a.active {
-      background-color: #345c47;
-}
-
-.navbar a:hover {
-    color: #e4ff83;
-    background-color: #139113;
-    text-decoration: none
 }
