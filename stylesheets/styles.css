@@ -3,7 +3,14 @@
 
 body {
   margin: 0%;
-  background-color: #23352c
+  background-color: #EBEBEB;
+  transition: 0.5s;
+  
+}
+
+.dark-mode {
+  transition: 0.5s;
+  background-color: #202020
 }
 
 .svs-header {
