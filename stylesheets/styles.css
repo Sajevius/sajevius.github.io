@@ -10,6 +10,7 @@ body {
 
 .dark-mode {
   transition: 0.5s;
+  color: #EBEBEB;
   background-color: #202020
 }
 
