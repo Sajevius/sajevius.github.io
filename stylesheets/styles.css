@@ -49,6 +49,14 @@ body {
     width: 100%;
 }
 
+.content {
+  padding: 16px;
+}
+
+.sticky + .content {
+    padding-top: 60px;
+}
+
 .svs-header {
   width: 100%;
   height: 440px;
