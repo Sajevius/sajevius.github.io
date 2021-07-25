@@ -27,6 +27,7 @@ body {
 }
 
 #svs-headertxt-about {
+  overflow: scroll;
   font-family: 'Poppins';
   font-size: 14px;
   text-align: center;
