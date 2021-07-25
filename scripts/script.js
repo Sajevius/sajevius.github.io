@@ -1,4 +1,4 @@
-window.onscroll = function() {stickNavbar()};
+/* window.onscroll = function() {stickNavbar()};
 
 var navbar = document.getElementById("navbar");
 var sticky = navbar.offsetTop;
@@ -9,7 +9,7 @@ function stickNavbar() {
   } else {
     navbar.classList.remove("sticky");
   }
-}
+} */
 
 function toggleDarkMode() {
   var element = document.body;
