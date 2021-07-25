@@ -58,9 +58,16 @@ body {
     padding-top: 60px;
 }
 
-.svs-header {
+.svs-header-home {
   width: 100%;
   height: 470px;
+  background-color: #345c47;
+  align-content: center
+}
+
+.svs-header-pages {
+  width: 100%;
+  height: 256px;
   background-color: #345c47;
   align-content: center
 }
