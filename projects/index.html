@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Sajevius' Website | Projects</title>
+    <title>Sajevius | Projects</title>
     <link rel="stylesheet" href="../stylesheets/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/x-icon" href="../assets/images/sajevius-icon.ico">
   </head>
   <body>
-    <div id="navbar">
+    <div id="navbar" class="sticky">
       <a href="../" title="Home" >Home</a>
       <a href="." title="Projects" class="active">Projects</a>
       <a href="javascript:void(0)" title="Blog">Blog</a>
@@ -20,11 +20,10 @@
     </div>
     <div class="content">
       <a class="bodytext" style="padding-left: 20px; text-align: left" href="./mc-mods/">Minecraft Mods</a>
+      <div class="svs-footer">
+        <button onclick="toggleDarkMode()" style="font-family: Poppins; left: 20px; top: 20px; padding: 20px; background-color: #318231; border: 1px solid #276627">Toggle dark mode</button>
+      </div>
     </div>
-    <div class="svs-footer">
-      <button onclick="toggleDarkMode()" style="font-family: Poppins; left: 20px; top: 20px; padding: 20px; background-color: #318231; border: 1px solid #276627">Toggle dark mode</button>
-        </div>
-     </div>
-     <script src="../scripts/script.js"></script>
+    <script src="../scripts/script.js"></script>
   </body>
 </html>
