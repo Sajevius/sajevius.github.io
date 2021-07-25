@@ -56,7 +56,6 @@ body {
 }
 
 .navbar a:hover {
-    border-radius: 12px;
     color: #e4ff83;
     background-color: #139113;
     text-decoration: none
