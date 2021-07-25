@@ -57,6 +57,7 @@ body {
 }
 
 .navbar a {
+    font-family: Work Sans;
     float: left;
     display: block;
     color: #16d620;
