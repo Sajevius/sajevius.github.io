@@ -18,6 +18,7 @@ body {
 #navbar {
   overflow: hidden;
   background-color: #2f5240;
+  border-bottom: 2px solid #139113
 }
 
 #navbar a {
