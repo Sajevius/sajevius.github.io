@@ -41,7 +41,8 @@ body {
 #navbar a:hover {
     color: #e4ff83;
     background-color: #139113;
-    border-bottom: 1px solid #e4ff83
+    border-bottom: 1px solid #e4ff83;
+    bottom: 1px
 }
 
 .sticky {
