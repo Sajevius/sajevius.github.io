@@ -41,7 +41,7 @@ body {
 #navbar a:hover {
     color: #e4ff83;
     background-color: #139113;
-    text-decoration: none
+    text-decoration: underline
 }
 
 .sticky {
